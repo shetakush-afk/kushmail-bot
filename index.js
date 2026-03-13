@@ -4,7 +4,7 @@ const { SMTPServer } = require('smtp-server');
 const { simpleParser } = require('mailparser');
 const express = require('express');
 
-const token = "YOUR_BOT_TOKEN"; // ← अपना Telegram bot token
+const token = "8729085266:AAExsyW9LPGB66ldDcVLEhGmnVXztdQyWqk"; // ← अपना Telegram bot token
 const OWNER_ID = 808562734; // ← आपका Telegram ID
 const DOMAIN = "kushmail.xyz";
 
